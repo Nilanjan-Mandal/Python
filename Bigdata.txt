@@ -1,0 +1,14 @@
+Key Bigdata Architecture
+------------------------
+
+1. Lambda Architecture
+
+We have support for both: 
+-------------------------
+        a) Historical data / Batch data
+        b) Streaming Data
+
+
+1. Kapa Architecture (Based on Kafka)
+
+data integration -> data ingestion -> data storage -> data processing -> data analysis -> data serving 
