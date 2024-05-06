@@ -4,7 +4,6 @@ number2 = 3.5
 sum = number2 + number1
 print('SUM is {0}'.format(sum))
 
-
 print('Lets find the sum of two numbers and take the input from users')
 
 a=input( " Please Enter The First  Number: " )
