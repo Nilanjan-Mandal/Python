@@ -13,4 +13,3 @@ class Student:
 
 s1 = Student("Karan", 90)
 print(s1.name, s1.marks)
-
