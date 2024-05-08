@@ -7,7 +7,8 @@
 f = open("demo.txt", "r") 
 
 # -> Let's Read the file
-data = f.read()
+data = f.read(5)
+# That will only read first 5 characters
 print(data)
 print(type(data))
 
