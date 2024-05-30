@@ -1,13 +1,7 @@
 {
-	"folders": [
-		{
-			"path": "."
-		}
-	],
-	"settings": {
-		"files.watcherExclude": {
-			"**/target": true
-		},
-		"editor.fontSize": 18.5
-	}
+    "folders": [
+        {
+            "path": "."
+        }
+    ]
 }
