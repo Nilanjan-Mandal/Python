@@ -8,4 +8,4 @@ def hash_password(password, salt):
 password = "new_password"
 salt = "new_salt"
 hashed_password = hash_password(password, salt)
-print(f"Hashed Password: {hashed_password}")
+print(f"Hashed Password: {hashed_password}")Adding More Contents!Adding More Contents!Adding More Contents!Adding More Contents!
