@@ -1,0 +1,1 @@
+# A Python program generally has two scope, Local & Global
