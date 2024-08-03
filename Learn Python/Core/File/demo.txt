@@ -1,1 +1,15 @@
 Hi, I am learning Python. 
+How are you Bidisha? 
+Are you ok ? 
+
+Answer : Hmm 
+
+Hi, I am learning Python. 
+How are you Bidisha? 
+Are you ok ? 
+
+Answer : yes
+How are you Bidisha? 
+Are you ok ? 
+Answer : NA
+Answer : I'm Good!
