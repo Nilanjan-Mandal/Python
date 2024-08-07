@@ -1,0 +1,2 @@
+1. Find the Vowels from a given string. 
+2. Find the missing elements from given list 

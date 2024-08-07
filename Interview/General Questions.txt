@@ -23,9 +23,26 @@ Q3. I want to print this paragraph and its line number from which this paragraph
     Triple quote at starting is also a part of paragraph.
 
 Q4. When do we get NameError?
-
 Q5. Python is a high level language. What does that mean by high level?
-
 Q6. What is compiled and Inetrpreted language, list a few?
-
 Q7. Get all varibales address from RAM and you find if something is similar?
+Q8. How can you flatten a list of lists?
+Q9. How do you add or update an item in a dictionary?
+Q10. How can you iterate over a dictionary’s keys and values?
+Q11. How do you remove an item from a dictionary?
+Q12. How do you merge two dictionaries?
+Q13. Write a function that takes a list of tuples (key-value pairs) and returns a dictionary.
+Q14. Convert a dictionary into tuple of a list
+Q15. Write a function to merge a list of dictionaries into a single dictionary.
+Q16. What is the difference between using a tuple and a list as dictionary keys?
+Q17. How can you sort a list of dictionaries by a specific key?
+Q18. How do you extract values from a dictionary based on a list of keys?
+Q19. How do you find the common elements between two lists?
+Q20. How do you find the difference between two dictionaries?
+Q21.  How do you create a tuple with a single element?
+Q22. How can you convert a list to a tuple and vice versa?
+Q23. Write a function that takes a list of integers and returns a tuple with the     first and last elements of the list.
+Q24. How do you check if an item exists in a list or tuple?
+Q25. Missing Items in list
+Q26. How do you find the index of an element in a list?
+Q27. How do you remove duplicates from a list?
