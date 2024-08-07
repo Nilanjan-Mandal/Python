@@ -1,0 +1,22 @@
+1.  How do you create a tuple with a single element?
+2. How can you convert a list to a tuple and vice versa?
+3. Write a function that takes a list of integers and returns a tuple with the     first and last elements of the list.
+
+4. How do you check if an item exists in a list or tuple?
+5. Missing Items in list
+6. How do you find the index of an element in a list?
+7. How do you remove duplicates from a list?
+8. How can you flatten a list of lists?
+9. How do you add or update an item in a dictionary?
+10. How can you iterate over a dictionary’s keys and values?
+11. How do you remove an item from a dictionary?
+12. How do you merge two dictionaries?
+13. Write a function that takes a list of tuples (key-value pairs) and returns a dictionary.
+14. Convert a dictionary into tuple of a list
+15. Write a function to merge a list of dictionaries into a single dictionary.
+16. What is the difference between using a tuple and a list as dictionary keys?
+17. How can you sort a list of dictionaries by a specific key?
+18. How do you extract values from a dictionary based on a list of keys?
+19. How do you find the common elements between two lists?
+20. How do you find the difference between two dictionaries?
+
