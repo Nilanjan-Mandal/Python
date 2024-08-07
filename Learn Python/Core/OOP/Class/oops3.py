@@ -1,8 +1,17 @@
 class Employee():
-    name = "ABC.org" # Class Attribute
+    college = "AEC" # Class Attribute
 
-    def __init__(self, name) -> None:
+    def __init__(self, name, marks) -> None:
         self.name = name # Object Attribute > Class Attribute
+        self.marks = marks
+    def hello(self):
+        print("Welcome to {}".format(self.college))
     
-e1 = Employee("Neel")
+    def getmarks(self):
+        return self.marks
+    
+e1 = Employee("Neel", 90)
 print(e1.name)
+print(e1.college)
+e1.hello()
+print(e1.getmarks())
