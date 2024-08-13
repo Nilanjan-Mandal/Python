@@ -46,3 +46,4 @@ Q24. How do you check if an item exists in a list or tuple?
 Q25. Missing Items in list
 Q26. How do you find the index of an element in a list?
 Q27. How do you remove duplicates from a list?
+Q28. Generate a Random number. 
