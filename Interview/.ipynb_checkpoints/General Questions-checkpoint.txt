@@ -1,0 +1,49 @@
+Q1. Define a variable of all the labours and print the name of each labour.
+Condition:-
+    Labour names are:- Mahesh, Mithilesh,Ramesh, Sumesh
+    labour variable should be something like this 1st_labour, 2nd_labour and so on.
+
+Q2. Define a variable of all the labours daily wage and print the name and wage of each labour.
+Condition:-
+    Labour names are:- Mahesh, Mithilesh,Ramesh, Sumesh and wages are 500,400,400,300 respectively
+    labour variable should be something like this 1st_labour_name,1st_labour_wage, 2nd_labour_name,
+    2nd_labour_wage and so on.
+    You are bound to use string formatting
+
+
+Q3. I want to print this paragraph and its line number from which this paragraph is printing
+    """ Programming aasan hai. We are going to learn this in depth. While learning we have to make sure that
+    we are implemeting all the logics by ourself. The aim here is to build our "4 BHK" house with the 
+    help of 'Python programming'. We have total land is of \100 ft * 100ft /, to colmplete the house 
+    we have total 6 labours with 'different skill set like "\\ building wall or building roof \\".
+            I have to print this paragraph as it is given here."""
+
+    Condition:- 
+    You can't use triple quote.
+    Triple quote at starting is also a part of paragraph.
+
+Q4. When do we get NameError?
+Q5. Python is a high level language. What does that mean by high level?
+Q6. What is compiled and Inetrpreted language, list a few?
+Q7. Get all varibales address from RAM and you find if something is similar?
+Q8. How can you flatten a list of lists?
+Q9. How do you add or update an item in a dictionary?
+Q10. How can you iterate over a dictionary’s keys and values?
+Q11. How do you remove an item from a dictionary?
+Q12. How do you merge two dictionaries?
+Q13. Write a function that takes a list of tuples (key-value pairs) and returns a dictionary.
+Q14. Convert a dictionary into tuple of a list
+Q15. Write a function to merge a list of dictionaries into a single dictionary.
+Q16. What is the difference between using a tuple and a list as dictionary keys?
+Q17. How can you sort a list of dictionaries by a specific key?
+Q18. How do you extract values from a dictionary based on a list of keys?
+Q19. How do you find the common elements between two lists?
+Q20. How do you find the difference between two dictionaries?
+Q21.  How do you create a tuple with a single element?
+Q22. How can you convert a list to a tuple and vice versa?
+Q23. Write a function that takes a list of integers and returns a tuple with the     first and last elements of the list.
+Q24. How do you check if an item exists in a list or tuple?
+Q25. Missing Items in list
+Q26. How do you find the index of an element in a list?
+Q27. How do you remove duplicates from a list?
+Q28. Generate a Random number. 

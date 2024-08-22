@@ -7,7 +7,3 @@ with open('demo.txt', 'r') as readFile:
         if line.startswith('Answer') is True:
             with open('Answer.txt', 'a') as writeFile: 
                 writeFile.write(line)
-
-
-
-                
