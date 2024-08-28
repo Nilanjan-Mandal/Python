@@ -1,4 +1,3 @@
-
 print("This is the program to test your number odd or even")
 number = int(input("Please enter the number you want to test odd / even : "))
 

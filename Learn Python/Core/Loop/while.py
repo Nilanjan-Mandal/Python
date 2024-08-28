@@ -11,8 +11,6 @@ while True:
         break
 print("Hey {}".format(name))
 
-
-
 # Using Break & Contineous Statement
 while True:
     name1 = input("Please write your name: ")

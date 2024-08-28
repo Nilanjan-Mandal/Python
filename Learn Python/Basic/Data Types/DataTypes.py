@@ -15,31 +15,23 @@ letter = ["a", "g", "j", "p", "o", "n"]
 
 # Length
 print(len(x))
-
 # Max Value
 print(max(x))
-
 # Minimum Value
 print(min(x))
-
 # Sum
 print(sum(x))
-
 # Average
 print(sum(x) / len(x))
-
 # Concatinate
 concatinate = x + letter
 print(concatinate)
-
 # Appending
 letter.append("m")
 print(letter)
-
 # Removal
 letter.remove("m")
 print(letter)
-
 # Insert
 letter.insert(1, "m")
 print(letter)
