@@ -1,3 +1,5 @@
+'''A set is an unordered collection of unique elements. Immutable Object'''
+
 s1 = {"Rohan", "Physics", 21, 69.75}
 s2 = {1, 2, 3, 4, 5}
 s3 = {"a", "b", "c", "d"}
@@ -6,7 +8,6 @@ print(s1)
 print(s2)
 print(s3)
 print(s4)
-
 
 # Convert in Set using Set Function
 lst = ["Rohan", "Physics", 21, 69.75]

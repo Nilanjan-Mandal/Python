@@ -1,0 +1,47 @@
+List vs Tuple
+=============
+1. Memory usage
+2. Slower Iteration
+3. Mutability
+
+What is __init__() in Python and it's Purpose?
+-> constructor in oop. It invokes when we call the object. 
+
+Mutable DataTypes
+=================
+1. List 
+2. Dictionary
+3. Set
+
+Imutable DataTypes
+==================
+1. Tuple
+2. String 
+
+Comprehension
+=============
+1. List
+2. Tuple
+3. Dictionary 
+
+What are decorators in Python? 
+=============================
+Decorators in Python are a design pattern that allows you to add new functionality to an existing object without modifying its structure. 
+They are commonly used to extend the behavior of functions or methods.
+
+List,Tuple, Dictionary Exercise
+===============================
+
+
+
+
+
+
+
+
+
+
+
+
+
+
