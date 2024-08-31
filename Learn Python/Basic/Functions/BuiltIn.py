@@ -1,0 +1,4 @@
+abs()
+type()
+max()
+min()
